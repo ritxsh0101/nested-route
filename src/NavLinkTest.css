@@ -1,0 +1,19 @@
+nav a{
+    color:#333;
+    margin-right:12px;
+    text-decoration: none;
+}
+nav a.active{
+    color:royalblue;
+    font-size:49px;
+    font-weight: bold;
+}
+.product-list {
+display : flex;
+padding: 10px;
+justify-content: center;
+
+}
+.product-item {
+padding: 49px;
+}
